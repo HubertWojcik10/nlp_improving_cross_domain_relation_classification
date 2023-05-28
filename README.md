@@ -8,3 +8,16 @@ A natural language processing university project, where we used a cross-domain d
 - group work: our team consisted of 3 people
 - our work is based on [Bassignana and Plank (2022a)](https://aclanthology.org/2022.findings-emnlp.263/)
 - the submission was an academic paper + code
+
+
+## How to run the code? (required guide for the exam)
+- clone the repository
+- run "cd baseline" to enter the baseline folder
+- open run.sh to change the test domain as well as specify whether you want to run the model or baseline. Remember to change the seed as well as the domain variable in the run.sh file
+- run "./run.sh" in the terminal to run the code
+
+
+## The structure of the code
+- baseline folder: code with model built on the baseline
+- analysis folder: code with model built on the analysis needed for the report
+- generate.py: code to generate the merged dataset
