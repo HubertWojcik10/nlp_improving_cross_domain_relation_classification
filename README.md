@@ -1,6 +1,6 @@
 # NLP - Improving Cross-Domain Relation Classification by Adding Domain-Specific Context
 
-A natural language processing university project, where we used a cross-domain dataset and a state-of-the-art neural network classifier to investigate the performance of adding more context to the dataset dataset.
+A natural language processing university project, where we used a cross-domain dataset and a state-of-the-art neural network classifier to investigate the performance of adding more context to the dataset.
 
 *What we discovered was that by adding a special token with a domain name (e.g. [music]), we can slightly increase the performance of a cross-domain relation classification model.*
 
